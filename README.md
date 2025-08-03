@@ -1,0 +1,1 @@
+Exercício simples de sintaxe e conceitos de interface e polimorfismo.
